@@ -1,4 +1,3 @@
-[submodule "tset1"]
- path = test1
- url = https://github.com/alexander-danilov/test-repo2.git
- branch = master
+[submodule "test2"]
+	path = test2
+	url = https://github.com/alexander-danilov/test-repo2.git
